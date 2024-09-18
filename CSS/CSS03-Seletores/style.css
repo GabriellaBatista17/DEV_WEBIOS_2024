@@ -1,0 +1,33 @@
+#p1{
+    color: blueviolet;
+}
+#p2{
+    color: rgb(251, 11, 251);
+}
+.divs{
+    background-color: blueviolet;
+}
+/* atividade em sala */
+#S2{
+    background-color: red;
+}
+#s2{
+    background-color: blueviolet;
+}
+#S3{
+    color: white;
+    font-size: 35px;
+}
+#s3{
+    color: grey;
+    font-size: 54px;
+}
+h3{
+    background-color: white;
+    color: green;
+}
+/* fim */
+/* seletor elemento elemento */
+  section h2{
+    background-color: aqua;
+  }

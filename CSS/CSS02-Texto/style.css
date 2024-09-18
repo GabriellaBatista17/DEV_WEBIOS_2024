@@ -1,0 +1,7 @@
+p{font-weight: 400; color: black; background-color: white; font-style:italic ;}
+img{ height: 200px;
+width: 200px;}
+#p1{
+    font-size: 2rem;
+    /* 2x16px=32px */
+}
