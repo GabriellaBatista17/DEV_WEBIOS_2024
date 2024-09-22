@@ -1,0 +1,23 @@
+body{
+    background-color: #eefaa8;
+    font-family: 'Rajdhani', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+header{
+    background-color: #649ea7;
+    border: 1px, #000000, solid;
+    text-align: center;
+}
+table,th,td,tr{
+    border: 1px, #000000, solid;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+th{
+    color: #8fbfb9;
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+#namorado{
+    border: 3px solid red;
+}
+body{
+    background-image: url(./img/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
