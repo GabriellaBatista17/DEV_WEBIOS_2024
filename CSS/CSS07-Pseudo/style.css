@@ -1,0 +1,22 @@
+button{
+    background-color: blueviolet;
+    color: white;
+    width: 100px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    border-color: blueviolet;
+}
+ p:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+ }
+ input:focus{
+    background-color: blueviolet;
+ }
+ li:nth-child(2){
+    border: 1px solid blueviolet;
+ }
