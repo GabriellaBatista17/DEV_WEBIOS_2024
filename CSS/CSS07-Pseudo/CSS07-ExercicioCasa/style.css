@@ -1,0 +1,117 @@
+body {
+    background-image: url(./b8ec20466f2c84c2e2833b1b91260df8.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 16px 10%;
+
+}
+
+header {
+    background-color: rgba(193, 194, 188, 0.7);
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+#d1 {
+    background-color: rgba(193, 194, 188, 0.7);
+    padding: 20px;
+    border: 2px solid #314a20;
+    font-size: 20px;
+}
+
+p {
+    padding: 05px 10px 10px;
+}
+
+p:hover {
+    background-color: #314a20;
+    color: white;
+}
+
+#d1::first-line {
+    background-color: #314a20;
+    color: white
+}
+
+img {
+    float: left;
+    /* padding-right: 10px; */
+    border: 2px solid #314a20;
+    margin-right: 10px;
+
+}
+
+button {
+    background-color: #c1c2bc;
+    border: 2px solid #314a20;
+    border-radius: 5px;
+    clear: both;
+}
+
+button:hover {
+    background-color: #314a20;
+
+    border: 2px solid #c1c2bc;
+}
+
+/* video */
+#d2 {
+    background-color: rgba(193, 194, 188, 0.7);
+    padding: 20px;
+    border: 2px solid #314a20;
+    font-size: 20px;
+}
+
+ul {
+    float: right;
+    /* padding-left: 500px; */
+    /* clear: both; */
+    width: 700px;
+}
+
+inframe {
+    /* padding-bottom: 100px; */
+    float: left;
+
+}
+
+
+h2 {
+    text-align: center;
+}
+
+/* Noticias */
+#d3 {
+    background-color: rgba(193, 194, 188, 0.7);
+    padding: 20px;
+    padding-top: 05px;
+    border: 2px solid #314a20;
+    font-size: 20px;
+}
+
+.p1::first-letter {
+    font-size: 70%;
+    color: #725436;
+}
+
+h3 {
+    text-align: center;
+    padding-right: auto;
+}
+
+#copy p::before {
+    content: "© todos os direitos reservados Gabriella B.Batista";
+    margin-right: 5px;
+}
+
+footer {
+    background-color: rgba(193, 194, 188, 0.7);
+    text-align: center;
+
+}

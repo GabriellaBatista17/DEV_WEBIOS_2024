@@ -10,10 +10,10 @@ button:hover{
     color: black;
     border-color: blueviolet;
 }
- /* p:hover{
+ p:hover{
     background-color: blueviolet;
     cursor: pointer;
- } */
+ }
  input:focus{
     background-color: blueviolet;
  }
